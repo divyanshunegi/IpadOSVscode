@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Testing React compilation from iPad pro wow it worked
         </a>
       </header>
     </div>
